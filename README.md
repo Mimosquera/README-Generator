@@ -1,20 +1,20 @@
 
-    # README Generator
+   # README Generator
 
-    ## Description
-    Generates READMEs.
+   ## Description
+    Generates readmes
 
-    ## Installation
+   ## Installation
     N/A
 
-    ## Usage
-    Run the index.js file with Node and answer the questions.
+   ## Usage
+    Run the index.js file with Node and answer the prompts.
 
-    assets/README Walkthrough.mp4
+   [Watch the demo video](assets/README-Walkthrough-Video.mp4)
 
-    ## Credits
-    Michael Mosquera, Expert Learning Assistant AI
+   ## Credits
+    Michael Mosqquera, Expert Learning Assistant 
 
-    ## License
+   ## License
     N/A
     
